@@ -1,0 +1,15 @@
+Instrucciones de Instalacion: 
+
+1.- Descargar los archivos del proyecto, ya sean los que estan en el comprimido o en el repositorio de github. Si desea verlo desde github, este
+es el respectivo link: 
+
+	https://github.com/Infinite2003/Proyecto-N-3/tree/513914f13dceed4570b9f44c80ebb8078819d385		
+
+2.- Abrir tu IDE o editor de codigo de preferencia. Yo recomiendo utilizar Visual Studio Code, ya que hay veces que en otros programas no compila o
+genera errores que no deberia existir. 
+
+3.- Agregar los archivos que descargo al proyecto.
+
+4.- Compilar el proyecto para generar el ejecutable.
+
+5.- Ejecutar el programa y seguir las instrucciones que aparecen en pantalla y/o la terminal.  
